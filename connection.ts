@@ -300,7 +300,7 @@ export class Connection {
       // notice response
       case "N":
         // TODO:
-        console.log("TODO: handle notice");
+        // console.log("TODO: handle notice");
         break;
       // command complete
       // TODO: this is duplicated in next loop
